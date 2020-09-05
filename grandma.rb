@@ -11,3 +11,10 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+Def speak_to_grandma ()
+  puts "HUH?! SPEAK UP, SONNY!"
+  if speak_to_grandma = ().upcase
+  print "I LOVE YOU"
+end
+
+speak_to_grandma
